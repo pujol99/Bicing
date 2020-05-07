@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><estacions>
+   <Estacio index="0">
+	<pos index="0">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="1">
+		<bikeIndex>7</bikeIndex>
+	</pos>
+	<pos index="2">
+		<bikeIndex>72</bikeIndex>
+	</pos>
+	<pos index="3">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="4">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+   </Estacio>
+
+   <Estacio index="1">
+	<pos index="0">
+		<bikeIndex>17</bikeIndex>
+	</pos>
+	<pos index="1">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="2">
+		<bikeIndex>22</bikeIndex>
+	</pos>
+	<pos index="3">
+		<bikeIndex>10</bikeIndex>
+	</pos>
+	<pos index="4">
+		<bikeIndex>20</bikeIndex>
+	</pos>
+   </Estacio>
+
+   <Estacio index="2">
+	<pos index="0">
+		<bikeIndex>2</bikeIndex>
+	</pos>
+	<pos index="1">
+		<bikeIndex>87</bikeIndex>
+	</pos>
+	<pos index="2">
+		<bikeIndex>53</bikeIndex>
+	</pos>
+	<pos index="3">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="4">
+		<bikeIndex>87</bikeIndex>
+	</pos>
+   </Estacio>
+
+   <Estacio index="3">
+	<pos index="0">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="1">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="2">
+		<bikeIndex>71</bikeIndex>
+	</pos>
+	<pos index="3">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="4">
+		<bikeIndex>87</bikeIndex>
+	</pos>
+   </Estacio>
+
+   <Estacio index="4">
+	<pos index="0">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="1">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="2">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="3">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="4">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	
+   </Estacio>
+
+   <Estacio index="5">
+	<pos index="0">
+		<bikeIndex>66</bikeIndex>
+	</pos>
+	<pos index="1">
+		<bikeIndex>12</bikeIndex>
+	</pos>
+	<pos index="2">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="3">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+	<pos index="4">
+		<bikeIndex>0</bikeIndex>
+	</pos>
+   </Estacio>
+   
+</estacions>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clients>
+	<Client>
+		<id>11111</id>
+		<mail>alex@gmail.com</mail>
+		<contrasenya>patata</contrasenya>
+		<bike>0</bike>
+	</Client>
+	<Client>
+		<id>22222</id>
+		<mail>elsa@gmail.com</mail>
+		<contrasenya>petete</contrasenya>
+		<bike>43</bike>
+	</Client><Client><id>6066</id><mail>example@gmail.com</mail><contrasenya>pititi</contrasenya><bike>0</bike></Client></clients>

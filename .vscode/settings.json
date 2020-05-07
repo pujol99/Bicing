@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0.5,
+    "git.enableSmartCommit": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Hack",
+    "editor.fontSize": 24,
+    "workbench.colorTheme": "One Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "python.pythonPath": "C:\\Users\\Alex\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}
